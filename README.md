@@ -1,8 +1,8 @@
 # The Problem Solving Canvas: An Instructional Guide for Engineers
-```
-Glen Anyon, 
-Solution Mill Pty Ltd, 2025
-```
+
+Created By: Glen Anyon, 
+ [Solution Mill Pty Ltd](www.solutionmill.net), 2025
+
 
 ## Introduction & Overview
 The Problem Solving Canvas is a structured visual tool designed to guide engineers, technicians, and teams through complex challenges. It provides a systematic, repeatable methodology to move from the initial confusion of a problem to a well-defined, actionable plan.
